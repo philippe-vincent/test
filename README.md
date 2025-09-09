@@ -14,3 +14,5 @@ git clone <url> <localname>
 ### Modif 'Local' de 15:55:48
 
 ### Modif 'Local' : création de la branch 'develop'
+
+### Modif 'Local' : test des 'reviews', création d'une 'pull request'
