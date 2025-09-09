@@ -12,3 +12,5 @@ git clone <url> <localname>
 ### Modif 'Remote' de 15:47:55
 
 ### Modif 'Local' de 15:55:48
+
+### Modif 'Local' : création de la branch 'develop'
